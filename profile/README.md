@@ -10,7 +10,7 @@ RobotDeğilim is a ME462 group (2023 spring semester) that came together for the
 
 ## Group Members 
 1. Ege Ecevit
-2. Muhammah Ahmed
+2. Muhammad Ahmed
 3. Üsâme Awad
 4. Zülâl Uludoğan
 
