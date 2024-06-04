@@ -3,7 +3,10 @@
 ## Who Are We?
 RobotDeğilim is a ME462 group (2023 spring semester) that came together for the purpose of maintaining the code infrastructure that both next and current ME461-ME462 students will be using. 
 
-
+## Main Responsibilites 
+1. Create the WallJumper minigame. (please check the relevant repo for more details)
+2. Maintain the RoboLaunch server located in ROMER.
+3. Create ROS2 and Gazebo enabled labs for the course ME461. 
 
 ## Group Members 
 1. Ege Ecevit
